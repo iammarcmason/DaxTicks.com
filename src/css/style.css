@@ -221,12 +221,7 @@ section,
 /* //////////////////////
   Footer
   /////////////////////// */
-footer {
-  bottom: 0;
-  left: 0;
-  position: absolute;
-  width: 100vw;
-}
+
 .site-footer {
   --logo-color: currentColor;
   padding: 2em 0;
