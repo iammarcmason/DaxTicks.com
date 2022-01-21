@@ -1,1 +1,1 @@
-DaxTicks.com
+DaxTricks.com
