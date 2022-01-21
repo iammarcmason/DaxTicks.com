@@ -91,6 +91,11 @@ picture {
   display: block;
 }
 
+p > img {
+  align-self: center;
+  justify-self: center;
+}
+
 /* Inherit fonts for inputs and buttons */
 input,
 button,
