@@ -31,10 +31,14 @@
 </script>
 
 <script>
-  var codeElements = document.querySelector('code');
+
+  var codeElements = document.querySelectorAll('pre');
+
 for (var i = 0; i < codeElements.length; i++) {
-// example for addding some-class to the element
-   codeElements.classList.add('line-numbers');}
+   codeElements[i].classList.add('line-numbers');}
+
+
+
 </script>
 
 <!-- script tag -->
@@ -44,5 +48,7 @@ for (var i = 0; i < codeElements.length; i++) {
 <!-- All individual language files -->
 <script src="https://cdn.jsdelivr.net/npm/prismjs@1.20.0/components/prism-dax.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/prismjs@1.20.0/components/prism-powerquery.min.js"></script>
+
+
 </body>
 </html>
