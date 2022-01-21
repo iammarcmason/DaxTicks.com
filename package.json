@@ -1,7 +1,7 @@
 {
-  "name": "DaxTricks.com",
+  "name": "DaxTricksDotcom",
   "version": "1.0.0",
-  "description": "DaxTricks.com",
+  "description": "DaxTricksDotcom",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
