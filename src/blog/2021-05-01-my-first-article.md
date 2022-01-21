@@ -17,7 +17,17 @@ imageAlt: This is a test
 
 
 ```dax
-this is some code, here = 123
+OperationSymbol = 
+var selectedOperation = selectedvalue('Calculations'[Operation])
+return
+switch(
+    TRUE(),
+    selectedOperation="Add","+",
+    selectedOperation="Subtract","-",
+    selectedOperation="Divide","/",    
+    selectedOperation="Multiply","x",
+    blank()
+)
 
 ```
 
