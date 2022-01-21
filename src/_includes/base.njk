@@ -31,10 +31,9 @@
 </script>
 
 <script>
-  var myElement = document.querySelector('code');
-
-// example for addding some-class to the element
-   myElement.classList.add('line-numbers');
+  var codeElements = document.querySelectorAll('code');
+  for (var i = 0; i < codeElements.length; i++){
+   codeElements[i].classList.add('line-numbers');}
 </script>
 
 <!-- script tag -->
