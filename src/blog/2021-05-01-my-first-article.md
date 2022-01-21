@@ -16,7 +16,7 @@ imageAlt: This is a test
 
 
 
-```python
+```dax
 this is some code, here = 123
 
 ```
