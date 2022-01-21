@@ -16,7 +16,7 @@ imageAlt: This is a test
 
 
 
-```dax line-numbers
+```dax
 OperationSymbol = 
 var selectedOperation = selectedvalue('Calculations'[Operation])
 return
