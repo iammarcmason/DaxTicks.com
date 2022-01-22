@@ -146,6 +146,11 @@ section,
   padding: min(10vh, 10em) 0;
 }
 
+.logo-image {
+  max-height: 45;
+  max-width: 280;
+}
+
 /* //////////////////////
   Utility Classes
   /////////////////////// */
