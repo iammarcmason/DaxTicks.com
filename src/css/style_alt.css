@@ -492,29 +492,29 @@ section,
 .hero {
   background: var(--rich-black-fogra-39);
 }
-.hero > div > p {
+.hero-text {
   color: var(--beige);
 }
 
-.hero > .btn--primary {
+.btn--primary-hero {
   background: rgba(219, 58, 52, 1);
   color: var(--clr-neutral-100);
   font-weight: var(--fw-700);
   border: 2px solid rgba(219, 58, 52, 1);
 }
-.hero > .btn--primary:hover {
+.btn--primary-hero:hover {
   background: rgba(255, 200, 87, 1);
   border-color: rgba(255, 200, 87, 1);
   color: rgba(15, 14, 14, 1);
 }
 
-.hero > .btn--neutral {
+.btn--neutral-hero {
   background-color: rgba(255, 200, 87, 1);
   color: var(--clr-neutral-900);
   font-weight: var(--fw-700);
   border: rgba(255, 200, 87, 1);
 }
-.hero > .btn--neutral:hover {
+.btn--neutral-hero:hover {
   color: var(--clr-neutral-100);
   background-color: rgba(219, 58, 52, 1);
 }
