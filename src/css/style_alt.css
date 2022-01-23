@@ -280,6 +280,9 @@ section,
   .hero > div {
     grid-auto-flow: column;
   }
+  .hero-buttons {
+    justify-content: center;
+  }
 }
 
 .featured-articles {
