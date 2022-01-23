@@ -300,6 +300,7 @@ section,
 
 .page-header {
   padding: 2em 0;
+  background: var(--rich-black-fogra-39);
 }
 
 .page-header__content {
@@ -313,13 +314,13 @@ section,
 }
 
 .nav-list a {
-  color: var(--clr-neutral-900);
+  color: var(--beige);
   text-decoration: none;
 }
 
 .nav-list a:focus,
 .nav-list a:hover {
-  color: var(--clr-primary-400);
+  color: var(--maximum-yellow-red);
   text-decoration: underline;
 }
 
@@ -505,7 +506,7 @@ section,
 .btn--primary-hero:hover {
   background: var(--maximum-yellow-red);
   border-color: var(--maximum-yellow-red);
-  color: rgba(15, 14, 14, 1);
+  color: var(--rich-black-fogra-39);
 }
 
 .btn--neutral-hero {
@@ -517,6 +518,7 @@ section,
 .btn--neutral-hero:hover {
   color: var(--clr-neutral-100);
   background-color: var(--cg-red);
+  border-color: var(--cg-red);
 }
 
 .section-title-header {
