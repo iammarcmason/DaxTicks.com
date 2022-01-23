@@ -497,24 +497,28 @@ section,
 }
 
 .btn--primary-hero {
-  background: rgba(219, 58, 52, 1);
+  background: var(--cg-red);
   color: var(--clr-neutral-100);
   font-weight: var(--fw-700);
-  border: 2px solid rgba(219, 58, 52, 1);
+  border: 2px solid var(--cg-red);
 }
 .btn--primary-hero:hover {
-  background: rgba(255, 200, 87, 1);
-  border-color: rgba(255, 200, 87, 1);
+  background: var(--maximum-yellow-red);
+  border-color: var(--maximum-yellow-red);
   color: rgba(15, 14, 14, 1);
 }
 
 .btn--neutral-hero {
-  background-color: rgba(255, 200, 87, 1);
+  background-color: var(--maximum-yellow-red);
   color: var(--clr-neutral-900);
   font-weight: var(--fw-700);
-  border: rgba(255, 200, 87, 1);
+  border: 2px solid var(--maximum-yellow-red);
 }
 .btn--neutral-hero:hover {
   color: var(--clr-neutral-100);
-  background-color: rgba(219, 58, 52, 1);
+  background-color: var(--cg-red);
+}
+
+.section-title-header {
+  color: var(--cg-red);
 }
