@@ -331,8 +331,8 @@ section,
 .site-footer {
   --logo-color: currentColor;
   padding: 2em 0;
-  color: var(--clr-neutral-100);
-  background-color: var(--clr-primary-500);
+  color: var(--beige);
+  background-color: var(--rich-black-fogra-39);
   text-align: center;
 }
 
@@ -521,6 +521,6 @@ section,
   border-color: var(--cg-red);
 }
 
-.section-title-header {
+.section-title-hero {
   color: var(--cg-red);
 }
