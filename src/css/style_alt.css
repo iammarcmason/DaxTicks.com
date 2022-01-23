@@ -219,8 +219,10 @@ section,
   /////////////////////// */
 
 .page-header {
-  padding: 2em 0;
+  padding: 1em 0;
   background: var(--rich-black-fogra-39);
+  position: sticky;
+  top: 0;
 }
 
 .page-header__content {
