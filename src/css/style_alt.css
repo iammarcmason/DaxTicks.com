@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700;900&display=swap");
+
 :root {
   --fs-300: 0.9375rem;
   --fs-400: 1.0625rem;
@@ -29,6 +31,7 @@
   --maximum-yellow-red: rgba(255, 200, 87, 1);
   --middle-blue-green: rgba(168, 220, 209, 1);
   --beige: rgba(220, 226, 200, 1);
+  --stone: rgba(239, 239, 235, 1);
   --rich-black-fogra-39: rgba(15, 14, 14, 1);
 
   /* SCSS Gradient */
@@ -361,7 +364,7 @@ section,
 }
 
 .featured-articles {
-  background-color: var(--clr-primary-200);
+  background-color: var(--stone);
 }
 
 .articles__list {
