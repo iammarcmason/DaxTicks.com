@@ -35,6 +35,8 @@ Ok, first we need to create a folder for our measures to live in
 * Select "Blank Query"
 
   ![Measure Table Code](/assets/blog/addmeasures_table.png "Measure Table Code")
+
+  [code](/assets/code/MeasuresTable.m)
 * The above code will give you a blank table, rename this blank table to something sensible that you will recognise.
 
   * NOTE: "Measures" is a keyword within PowerBI and cannot be used
@@ -78,8 +80,6 @@ In the Properties pane, change the Display Folder to a value that means somethin
 You can see that it automatically creates the folder, underneath your measures table, and places the measures within it. 
 
 Do this for each category of measures that you want to categorise, you can even have sub-sub folders. If you wanted to do this, instead of just entering Sales in the display folder, you would enter something like Sales\Time Intelligence (must be \ not /)
-
-
 
 And there you have it.
 
