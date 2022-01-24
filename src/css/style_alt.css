@@ -303,8 +303,8 @@ section,
 }
 
 .main-article__figure figcaption {
-  margin: 1rem 0;
-  font-size: var(--fs-300);
+  margin: 0.7rem 0;
+  font-size: 0.8rem;
   opacity: 0.9;
 }
 
