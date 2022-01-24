@@ -94,6 +94,7 @@ img,
 picture {
   max-width: 100%;
   display: block;
+  max-height: 510px;
 }
 
 p > img {
@@ -177,7 +178,7 @@ section,
 .container {
   margin-inline: auto;
   padding-inline: 1.5em;
-  max-width: 72rem;
+  max-width: 95rem;
 }
 
 .container--narrow {
@@ -268,7 +269,7 @@ section,
 .hero__image {
   width: 100%;
   /* max-height: max(15rem, 40vh); */
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .hero-buttons {
@@ -326,7 +327,7 @@ section,
   grid-area: image;
   width: 100%;
   aspect-ratio: 4 / 3;
-  object-fit: cover;
+  object-fit: contain;
 }
 .snippet__title {
   grid-area: title;
