@@ -6,8 +6,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
   aliquam?
 author: Marc
 date: 2021-05-28
-tags:
-  - post
+tags: []
 image: /assets/blog/article-3.jpg
 imageAlt: This is a test
 ---
