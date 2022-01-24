@@ -224,6 +224,7 @@ section,
 .page-header__content {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .nav-list {
