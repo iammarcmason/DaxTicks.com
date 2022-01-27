@@ -1,6 +1,8 @@
 ---
-title: I Did a Thing
-description: Sample Sales Report
+title: Drop Down Filter Panes
+description: Some dashboards and reports, you just need a bit more space, but
+  you still need to be able to filter the information that you are presenting.
+  Here I show how to create a drop down filter pane using bookmarks.
 author: Marc
 date: 2022-01-27T10:35:31.721Z
 tags:
