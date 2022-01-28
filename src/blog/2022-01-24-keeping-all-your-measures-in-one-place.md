@@ -83,4 +83,4 @@ Do this for each category of measures that you want to categorise, you can even 
 
 And there you have it.
 
-All of your measures and now in one place and categorised making for a much nicer development experience.
+All of your measures are now in one place and categorised, making for a much nicer development experience.
