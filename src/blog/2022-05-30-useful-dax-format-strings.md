@@ -6,6 +6,7 @@ author: Marc
 date: 2022-05-30T07:54:56.916Z
 tags:
   - post
+  - featured
 image: https://www.goodly.co.in/wp-content/uploads/2020/08/DAX-Format-Function.png
 imageAlt: Dax Format Strings
 ---
